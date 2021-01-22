@@ -6,7 +6,7 @@ public class Test : MonoBehaviour
 {
     void Start()
     {
-        print("code from class1");
+        print(message:"code from class1");
     }
 
     void Update()
